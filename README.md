@@ -1,13 +1,13 @@
 <h1 align="center">Hey there!,I'm Hardik Jain 👋</h1>
-<h3 align="center">Goal oriented, focused Information Technology graduate with a keen interest in Tech!🤖🚀</h3>
+<h3 align="center">Goal oriented, focused Computer Science Graduate with a keen interest in Tech!🤖🚀</h3>
 
-- 🔭 I’m currently a **Undergrad Student at KJSCE,Mumbai**
+- 🔭 I’m currently a **MSE-CIS Grad Student at University of Pennsylvania**
 
 - 🤝 I’m willing to collaborate more and more on **various Open-Source Projects**
 
 - 👨🏻‍💻 Major Frameworks Worked with: **Python, Django, Javascript, C,C++,SQL**
 
-- 📫 Reach Me at: **hardikjain8583@gmail.com**
+- 📫 Reach Me at: **hardikjain8583@gmail.com/hardikj@seas.upenn.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
